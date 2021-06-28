@@ -1,4 +1,6 @@
 ## :wave: Hi! I'm Bubble-419.  
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Palanquin+Dark&color=DA4B79&size=22&center=true&vCenter=true&lines=Hello%2C+World!+%F0%9F%8C%BA;Welcome+to+my+GitHub+profile;I'm+a+front-end+learner+now;Always+moving+on)](https://git.io/typing-svg)
 
 你也可以喊我周猪:pig2:。 
