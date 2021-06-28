@@ -14,7 +14,7 @@
 
 <table width="800px">
 <tr>
-<td valign="top" width="50%">
+<td width="400px">
         
 ### My Todoist
 <!-- TODO-IST:START -->
@@ -25,7 +25,7 @@
 <!-- TODO-IST:END -->
 
 </td>
-<td valign="top" width="50%">
+<td width="400px">
         
 ### My Code Time
 <!-- code_time starts -->
