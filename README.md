@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello, World! :hibiscus:
 
-<!--
-**Bubble-419/Bubble-419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave: Hi! 我是 Bubble-419 ,你也可以喊我周猪。
 
-Here are some ideas to get you started:
+:ocean: 目前在前端领域中努力地摸爬滚打，路还很长，时刻提醒自己要脚踏实地一步步走下去。  
+        现在在准备面试，希望下学期可以找到实习！
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:yum: 喜欢吃好吃的，看些杂七杂八的书，还喜欢在休息时间能做的一切不用动脑的活动，可以来找我玩儿噢。
+
+:bouquet: 梦想是能一直坚持在前端捡破烂。  
+> 我有一天长大了，希望做一个拾破烂的人。因为这种职业，不但可以呼吸新鲜的空气，同时又可以大街小巷地游走玩耍，一面工作一面游戏，快乐得如同天上的飞鸟。  
+> ……更吸引人的是，它永远是一份未知，在下一分钟里，能拾到的是什么好东西谁也不知道。它是一个没有终止，没有答案，也不会有结局的谜。  ——三毛
+
+<table width="800px">
+  <tr>
+   <td width="50%">
+    
+    </td>
+  </tr>
