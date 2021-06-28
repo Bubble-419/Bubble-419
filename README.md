@@ -1,11 +1,12 @@
-## Hello, World! :hibiscus:
+## :wave: Hi! I'm Bubble-419.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Palanquin+Dark&color=DA4B79&size=22&center=true&vCenter=true&lines=Hello%2C+World!+%F0%9F%8C%BA;Welcome+to+my+GitHub+profile;I'm+a+front-end+learner+now;Always+moving+on)](https://git.io/typing-svg)
 
-:wave: Hi! 我是 Bubble-419, 你也可以喊我周猪。
+你也可以喊我周猪:pig2:。 
 
 :ocean: 目前在前端领域中努力地摸爬滚打，路还很长，时刻提醒自己要脚踏实地一步步走下去。  
         现在在准备面试，希望下学期可以找到实习！
 
-:yum: 喜欢吃好吃的，看些杂七杂八的书，还喜欢在休息时间能做的一切不用动脑的活动，可以来找我玩儿噢。
+:yum: 喜欢吃好吃的，看些杂七杂八的书，还喜欢在休息时间能做的一切不用动脑的活动，很高兴遇见你。
 
 :bouquet: 梦想是能一直坚持在前端捡破烂。  
 > “我有一天长大了，希望做一个拾破烂的人。因为这种职业，不但可以呼吸新鲜的空气，同时又可以大街小巷地游走玩耍，一面工作一面游戏，快乐得如同天上的飞鸟。  
@@ -22,6 +23,13 @@
 ✅  Completed 3 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+</td>
+<td valign="top" width="50%">
+        
+### My Code Time
+<!-- code_time starts -->
+<!-- code_time end -->
 
 </td>
 </tr>
