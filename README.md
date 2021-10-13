@@ -31,8 +31,8 @@
 <td width="400px">
         
 ### My Code Time
-<!-- code_time starts -->
-<!-- code_time end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </td>
 </tr>
