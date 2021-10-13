@@ -32,6 +32,12 @@
         
 ### My Code Time
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 22 mins   ██████████████▒░░░░░░░░░░   57.81 % 
+Other        5 hrs 36 mins   █████████▓░░░░░░░░░░░░░░░   38.79 % 
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
 <!--END_SECTION:waka-->
 
 </td>
