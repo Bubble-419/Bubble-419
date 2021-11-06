@@ -33,10 +33,10 @@
 ### My Code Time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 hrs 15 mins  ██████████░░░░░░░░░░░░░░░   40.01 % 
-LESS         7 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.81 % 
-Other        7 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.40 % 
-JSON         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+LESS         7 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   36.85 % 
+Other        6 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.66 % 
+JavaScript   6 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
+JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 <!--END_SECTION:waka-->
 
