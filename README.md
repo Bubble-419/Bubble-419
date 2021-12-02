@@ -33,9 +33,9 @@
 ### My Code Time
 <!--START_SECTION:waka-->
 ```text
-Vue.js       33 mins         ██████████████▒░░░░░░░░░░   56.81 % 
-JavaScript   21 mins         █████████▒░░░░░░░░░░░░░░░   36.67 % 
-JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Vue.js       33 mins         █████████████▒░░░░░░░░░░░   53.59 % 
+JavaScript   24 mins         █████████▓░░░░░░░░░░░░░░░   38.94 % 
+JSON         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 ```
 <!--END_SECTION:waka-->
 
