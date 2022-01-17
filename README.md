@@ -33,7 +33,9 @@
 ### My Code Time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 mins          ██████████████████▒░░░░░░   73.16 % 
+JavaScript   1 hr 6 mins     ██████████████████░░░░░░░   72.48 % 
+HTML         21 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 <!--END_SECTION:waka-->
 
