@@ -33,8 +33,7 @@
 ### My Code Time
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 11 mins   ██████████████████████▓░░   91.02 % 
-HTML         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
